@@ -1,2 +1,2 @@
-# ecran-lycee
-Programme pour diffuser différentes diapos automatiquement sur les écrans de lycée (au départ pour le mien).
+# Ecran lycée
+Programme pour diffuser différentes diapos automatiquement sur les écrans de lycées (au départ pour le mien).
